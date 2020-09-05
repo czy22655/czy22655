@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 你好
  我是陈泽宇，来自福州大学
  
- 目前还是代码小菜鸡
+ 目前还在发育
  
  还请各位大佬多多包涵
  
